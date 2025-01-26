@@ -8,17 +8,13 @@ Preguntas guía:
 
 
 Fórmulas DAX empleadas:
-1. ¿Cuál es el porcentaje de gasto actual del presupuesto total?
-Fórmula utilizada: % de gasto = Total Gastos / Total Presupuesto.
-Esto reflejacuánto del presupuesto se ha consumido hasta la fecha.
-2. ¿Cuál es el saldo disponible del presupuesto total?
-Fórmula utilizada: Saldo = Total Presupuesto - Total Gastos.
+1.  % de gasto = Total Gastos / Total Presupuesto.
+Esto refleja cuánto del presupuesto se ha consumido hasta la fecha.
+3. Saldo = Total Presupuesto - Total Gastos.
 Muestra cuánto presupuesto queda después de descontar los gastos realizados.
-3. ¿Cuál es el gasto total acumulado hasta ahora?
-Fórmula utilizada: Total Gastos = Suma de todos los gastos registrados.
+4. Total Gastos = Suma de todos los gastos registrados.
 Gasto acumulado de todas las categorías.
-4. ¿Cuánto del presupuesto se ha asignado por categoría y cuánto queda disponible?
-Fórmula utilizada: % de gasto = Divide([Total Gastos],[Total Presupuesto], 0)
+5. % de gasto = Divide([Total Gastos],[Total Presupuesto], 0)
 Cada categoría tendrá un desglose del gasto comparado con su presupuesto, incluyendo el saldo disponible.
 
 Insights
