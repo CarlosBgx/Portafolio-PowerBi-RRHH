@@ -1,3 +1,5 @@
+Puede descargar el archivo RRHH.pbix para revisar el dashboard.
+
 Preguntas guía:
 1. ¿Qué porcentaje del presupuesto total se ha gastado hasta ahora?
 2. Del presupuesto total, ¿cuál es el saldo que sigue disponible?
